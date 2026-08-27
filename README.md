@@ -1,5 +1,6 @@
 # homebrew-clixad
 
+
 This repository contains a Homebrew tap for [Clixad](https://clixad.io/), a free AI coding agent for your terminal. Use this tap to easily install and manage Clixad on macOS and Linux using Homebrew.
 
 ## Installation
