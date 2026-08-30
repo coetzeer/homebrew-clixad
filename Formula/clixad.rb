@@ -1,8 +1,8 @@
 class Clixad < Formula
   desc "Free AI coding agent in your terminal, funded by rewarded ads"
   homepage "https://clixad.io/"
-  url "https://registry.npmjs.org/clixad/-/clixad-0.0.1-beta.14.tgz"
-  sha256 "117d8da1068157db03c284e425c5cbe755d5065a4aa9d5435febb2cfce4c7958"
+  url "https://registry.npmjs.org/clixad/-/clixad-0.0.1-beta.15.tgz"
+  sha256 "bb7dcf2b3c712e37406951ca3178bb2186a3a0ea916389437542ddab34cab2e6"
   license "Unlicense"
 
   depends_on "node@22"
